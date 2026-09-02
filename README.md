@@ -4,7 +4,7 @@ Files:
 - `Brithday_Surprise.html` — countdown/lock screen
 - `bs.css` — styling
 - `bs.js` — countdown, unlock and basic browser deterrents
-- `Yaksh-scrap-kavyabirthday.html` — surprise page
+- `Sneha-birthday.html` — surprise page
 
 ## Unlock time
 8 September 2026 at 12:00 AM, using the visitor's local browser time.
