@@ -13,7 +13,7 @@
   }, 100);
 
   // Unlock time: 8 September 2026, 12:00 AM (local browser time)
-  const birthday = new Date("September 02, 2026 10:55:00").getTime();
+  const birthday = new Date("September 08, 2026 00:00:00").getTime();
   const btn = document.getElementById("sBtn");
   let unlocked = false;
 
